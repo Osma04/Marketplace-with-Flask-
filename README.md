@@ -1,2 +1,3 @@
-# codigospractica
-Repositorio para ir guardando los códigos de práctica mientras vaya aprendiendo,habrán de C,C# y Python(talvez de algun otro que aprenda) 
+# Marketplace Con Flask 
+Repositorio de proyecto usando el framework de python Flask 
+
