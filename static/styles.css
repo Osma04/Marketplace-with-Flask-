@@ -1,0 +1,43 @@
+#topdiv1, #topdiv0{
+	margin-left: 20%;
+	margin-right: 30%;
+	margin-top: 5%;
+	background-color: #dadff1;
+	font-family: 'Merienda', cursive;
+}
+
+#topdiv7{
+	margin-top: 5%;
+	padding-bottom: 20px;
+	font-family: 'Merienda', cursive;
+
+}
+
+#topdiv4, #topdiv5{
+	margin-top: 5%;
+	padding-bottom: 20px;
+	font-family: 'Merienda', cursive;
+
+}
+
+#index0, #index1{
+	padding-top: 30px;
+	font-family: 'Merienda', cursive;
+
+}
+
+#topdiv2, #topdiv5{
+	background-color: #eac6c6;
+	font-family: 'Merienda', cursive;
+}
+
+#topdiv2, #topdiv3{
+	margin-top: 2%;
+	margin-left: 10%;
+	display: none;
+	font-family: 'Merienda', cursive;
+}
+
+.needspace{
+	margin-left: 15px;
+}
